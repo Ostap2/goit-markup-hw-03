@@ -249,3 +249,16 @@
     border-radius: 4px;
     cursor: pointer;
 }
+.section-two {
+    padding: 120px 0;
+} 
+.list-section {
+    display: flex;
+    gap: 24px; 
+}
+.li-section {
+    width: calc((100% - 72px) / 4);
+}
+.title-two {
+    margin-bottom: 8px;
+}
