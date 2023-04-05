@@ -218,3 +218,14 @@
     width: 1158px; 
     padding: 0 15px;
 }
+.nav-index {
+    display: flex;
+    align-items: center; 
+}
+.logo-nav {
+    margin-right: 76px;
+}
+.menu-nav {
+    display: flex;
+    gap: 40px;
+}
