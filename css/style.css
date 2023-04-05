@@ -204,3 +204,17 @@
 .mail {
     color: #434455 ;
 }
+.img {
+    display: block 
+}
+.header-html {
+    border-bottom: 1px solid #e7e9fc;
+}
+.container-header {
+    display: flex; 
+    align-items: center;
+}
+.container {
+    width: 1158px; 
+    padding: 0 15px;
+}
