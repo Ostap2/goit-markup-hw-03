@@ -262,3 +262,16 @@
 .title-two {
     margin-bottom: 8px;
 }
+.section-thre {
+    padding-bottom: 120px;
+}
+.title-tvo {
+    margin-bottom: 72px;
+}
+.list-section-thre {
+    display: flex; 
+    gap: 24px;
+}
+.list-img {
+    width: calc((100% - 48px) / 3);
+}
