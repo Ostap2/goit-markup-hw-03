@@ -337,7 +337,7 @@
 .section-portfolio {
     padding: 96px 120px ;
 }
-.button-list-portfolio {
+.portfolio-list {
     display: flex;
     justify-content: center; 
     gap: 24px; 
