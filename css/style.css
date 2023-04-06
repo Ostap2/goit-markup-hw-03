@@ -316,4 +316,21 @@
     align-items: center;
     width: 1158px; 
  }
-
+.nav-portfolio {
+    display: flex;
+    align-items: center; 
+}
+.nav-logo {
+    margin-right: 76px;
+}
+.nav-menu {
+    padding: 24px 0 ;
+}
+.nav-menu {
+    display: flex;
+    gap: 40px;
+}
+.list-adress {
+    display: flex;
+    gap: 40px;
+}
