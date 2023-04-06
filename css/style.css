@@ -334,3 +334,12 @@
     display: flex;
     gap: 40px;
 }
+.section-portfolio {
+    padding: 96px 120px ;
+}
+.button-list-portfolio {
+    display: flex;
+    justify-content: center; 
+    gap: 24px; 
+    margin-bottom: 72px
+}
