@@ -308,4 +308,12 @@
 .paragraf-footer {
     max-width: 264px;
 }
-    
+ .header-portfolio {
+        border-bottom: 1px solid #e7e9fc;
+ }
+ .container-header-portfolio {
+    display: flex;
+    align-items: center;
+    width: 1158px; 
+ }
+
