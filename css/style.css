@@ -298,3 +298,14 @@
     text-align: center;
     margin-bottom: 8px;
 }
+.footer-html {
+    padding: 100px 0;
+}
+.logo-footer {
+    display: inline-block; 
+    margin-bottom: 16px;
+}
+.paragraf-footer {
+    max-width: 264px;
+}
+    
