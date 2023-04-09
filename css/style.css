@@ -343,3 +343,14 @@
     gap: 24px; 
     margin-bottom: 72px
 }
+.button-portfolio {
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc;
+    border-radius: 4px;
+}
+.button-portfolio:hover {
+    border: 1px solid transparent ;
+}
+.button-portfolio:focus {
+    border: 1px solid transparent ;
+} 
