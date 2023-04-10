@@ -206,6 +206,11 @@
 .mail {
     color: #434455 ;
     margin: 0 auto;
+    position: absolute;
+    width: 153px;
+    height: 24px;
+    left: 940px;
+    top: 24px;
 }
 .img {
     display: block;
