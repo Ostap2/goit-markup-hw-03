@@ -259,9 +259,12 @@
 .list-section {
     display: flex;
     gap: 24px; 
+    margin: 0;
+    padding-left: 0;
 }
 .li-section {
     flex-basis: calc((100% - 72px) / 4);
+    margin: 0;
 }
 .title-two {
     margin-bottom: 8px;
