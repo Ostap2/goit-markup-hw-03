@@ -259,8 +259,6 @@
 .list-section {
     display: flex;
     gap: 24px; 
-    margin: 0;
-    padding-left: 0;
 }
 .li-section {
     flex-basis: calc((100% - 72px) / 4);
@@ -277,8 +275,6 @@
 .list-section-thre {
     display: flex; 
     gap: 24px;
-    margin: 0;
-    padding-left: 0;
 }
 .list-img {
     width: calc((100% - 48px) / 3);
