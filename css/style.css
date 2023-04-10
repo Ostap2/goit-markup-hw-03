@@ -235,6 +235,7 @@
 }
 .menu-li {
     padding: 24px 0;
+    margin-right: auto;
 }
 .adress-list {
     display: flex;
