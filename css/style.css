@@ -278,8 +278,6 @@
 }
 .list-img {
     width: calc((100% - 48px) / 3);
-    font-size: 264px;
-
 }
 .section-four {
     padding: 120px 0;
