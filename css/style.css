@@ -375,31 +375,18 @@
     border-top: none; 
     margin-bottom: 8px ;
 }
-.mail-link {
-    position: absolute;
-width: 153px;
-height: 24px;
-left: 940px;
-top: 24px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
+img {
+    display: block;
 }
-.link-number {
-    position: absolute;
-width: 151px;
-height: 24px;
-left: 1133px;
-top: 24px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px;
-letter-spacing: 0.02em;
-color: #434455;
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin: 0;
+}
+ul {
+    margin: 0;
+    padding-left: 0;
 }
