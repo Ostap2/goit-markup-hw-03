@@ -255,6 +255,7 @@
 }
 .section-two {
     padding: 120px 0;
+    margin: 0 auto;
 } 
 .list-section {
     display: flex;
