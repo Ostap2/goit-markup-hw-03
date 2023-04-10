@@ -264,7 +264,7 @@
 }
 .li-section {
     flex-basis: calc((100% - 72px) / 4);
-    margin: 0;
+    margin: 264px;
 }
 .title-two {
     margin-bottom: 8px;
