@@ -264,7 +264,6 @@
 }
 .li-section {
     flex-basis: calc((100% - 72px) / 4);
-    margin: 264px;
 }
 .title-two {
     margin-bottom: 8px;
@@ -278,9 +277,12 @@
 .list-section-thre {
     display: flex; 
     gap: 24px;
+    margin: 0;
+    padding-left: 0;
 }
 .list-img {
     width: calc((100% - 48px) / 3);
+
 }
 .section-four {
     padding: 120px 0;
